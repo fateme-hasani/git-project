@@ -1,2 +1,6 @@
 This is first line in A.txt
+<<<<<<< HEAD
 This is third line in A.txt
+=======
+This is second line in A.txt
+>>>>>>> new-branch
